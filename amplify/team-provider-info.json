@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-myquizzapp-dev-2905c-authRole",
+      "UnauthRoleArn": "arn:aws:iam::509017208770:role/amplify-myquizzapp-dev-2905c-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::509017208770:role/amplify-myquizzapp-dev-2905c-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-myquizzapp-dev-2905c-deployment",
+      "UnauthRoleName": "amplify-myquizzapp-dev-2905c-unauthRole",
+      "StackName": "amplify-myquizzapp-dev-2905c",
+      "StackId": "arn:aws:cloudformation:us-east-1:509017208770:stack/amplify-myquizzapp-dev-2905c/52a8a3d0-3dd8-11f1-ad97-0afff9babff5",
+      "AmplifyAppId": "d35qxf8d2yu1e3"
+    },
+    "categories": {
+      "auth": {
+        "myquizzapp6d7c1307": {}
+      }
+    }
+  }
+}
